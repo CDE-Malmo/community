@@ -40,3 +40,8 @@ We are using https://github.com/GerritCodeReview/docker-gerrit.
 
 We are using https://github.com/CDE-Malmo/praqma-jenkins-casc. 
 Follow instructions from [README.md](https://github.com/CDE-Malmo/praqma-jenkins-casc/blob/master/README.md)
+
+## Installing Repo tool
+
+- [installing-repo](https://source.android.com/setup/build/downloading#installing-repo)
+- [ssl problems](https://stackoverflow.com/questions/26646741/cannot-get-https-gerrit-googlesource-com-git-repo-clone-bundle)
