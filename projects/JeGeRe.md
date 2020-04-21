@@ -43,5 +43,15 @@ Follow instructions from [README.md](https://github.com/CDE-Malmo/praqma-jenkins
 
 ## Installing Repo tool
 
-- [installing-repo](https://source.android.com/setup/build/downloading#installing-repo)
+From: [installing-repo](https://source.android.com/setup/build/downloading#installing-repo)
+- Make sure that you have a bin/ directory in your home directory and that it's included in your path:
+```
+mkdir ~/bin
+PATH=~/bin:$PATH
+```
+- Download the Repo Launcher and ensure that it's executable:
+```
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+chmod a+x ~/bin/repo
+```
 - [ssl problems](https://stackoverflow.com/questions/26646741/cannot-get-https-gerrit-googlesource-com-git-repo-clone-bundle)
