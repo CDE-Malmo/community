@@ -55,3 +55,25 @@ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 chmod a+x ~/bin/repo
 ```
 - [ssl problems](https://stackoverflow.com/questions/26646741/cannot-get-https-gerrit-googlesource-com-git-repo-clone-bundle)
+
+### Setting work environment
+
+**Creating repos**
+
+- Create 1 manifest repo and 2 source repos
+- In the manifest repo, create a `default.xml` file pointing to the other two repos.
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="http://35.228.235.101/" revision="master" />
+  <default revision="master" remote="origin" />
+  <project path="sub/one" name="jegere-sub1" />
+  <project path="sub/two" name="jegere-sub2" />
+</manifest>
+```
+
+- `repo init -u http://35.228.235.101/jegere`
+- `repo sync`
+
+
