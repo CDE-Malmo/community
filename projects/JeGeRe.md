@@ -30,10 +30,11 @@ We are using https://github.com/GerritCodeReview/docker-gerrit.
 - `sudo -iu ubuntu`
 - Create `docker-compose.yml` file, change external port from 8080 to 80.
 - `docker-compose up -d`
-
+- Generate ssh key pair
 - Create new repo
 - Open port 29418
 - scp -i ~/.ssh/[repo] -p -P 29418 [user]@[gerritserver]:hooks/commit-msg .git/hooks/
+
 
 ## How to setup Jenkins
 
