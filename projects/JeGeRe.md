@@ -38,7 +38,7 @@ We are using https://github.com/GerritCodeReview/docker-gerrit.
 
 ## How to setup Jenkins
 
-We are using https://github.com/CDE-Malmo/praqma-jenkins-casc. 
+We are using https://github.com/CDE-Malmo/praqma-jenkins-casc.
 Follow instructions from [README.md](https://github.com/CDE-Malmo/praqma-jenkins-casc/blob/master/README.md)
 
 ## Installing Repo tool

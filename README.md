@@ -21,3 +21,9 @@ No selling from stage
 # Our way of working
 
 Let's figure it out together
+
+# Projects
+
+We're setting up a test/demo/playground environment for the combination Jenkins, Gerrit and Repo.
+- [JenkinsGerritRepo](projects/JeGeRe.md)
+- It should be done in such a way so that it's easy to replace any of the tools without extensive efforts.
