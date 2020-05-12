@@ -18,4 +18,6 @@
 ---
 
 ## CDE-Malmö projects
-[Read more here](projects/README.md)
+The projects can be different in nature; hands-on, discussions, solve a specific issue, etc. But the thing that connects them is that there is a real outcome; a script, a solution, the problem, etc.
+
+[Read more about the projects here.](projects/README.md)
