@@ -9,7 +9,6 @@
 - We want to improve our understanding of issues and what's out there.
 - We dive into problems before figuring out the solutions.
 
-
 ## How we collaborate
 
 - No selling from stage.
@@ -17,7 +16,4 @@
 - Each session is topically driven, but the agenda is driven by the participants.
 
 
-## Projects
-
-### Jenkins Gerrit Repo environment
-[JeGeRe](projects/JeGeRe.md) - We're setting up a test/demo/playground environment for the combination Jenkins, Gerrit and Repo. In a way so that it's easy to replace any of the tools without extensive efforts.
+**[CDE-Malmö projects](projects/README.md)**
