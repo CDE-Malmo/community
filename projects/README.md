@@ -6,6 +6,12 @@
 
 ## Project ideas
 
+### Dockerize Repo Tool
+So that anyone can start using it on their machine without messing around.
+
+### Demo tool chain dockerized on your machine
+Test environment on your machine.
+
 ### Jenkins multibranch pipelines for Repo and Gerrit
 Take care of a multi git repository product (using the repo tool) in a good way using Jenkins.
 Building each repo separately or the actual product (manifest repo) is trivial (build trigger on changes on that repo). The challenge is how to trigger the manifest repo build whenever a change in any sub-repo is made.
