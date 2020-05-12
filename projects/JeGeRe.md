@@ -1,5 +1,11 @@
 # Jenkins & Gerrit & Repo Project
 
+## What's this project about?
+
+We have noticed that Jenkins, Gerrit and Repo tool isn't an unlikely tool set at companies, but there are some challenges to make it play well together.
+
+This project is about describing how to setup a test environment for this.
+
 ## How to set up docker host
 
 ```
