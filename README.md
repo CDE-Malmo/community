@@ -15,5 +15,7 @@
 - Be yourself, relax, enjoy beverages and chit chat; it's not a formal meeting.
 - Each session is topically driven, but the agenda is driven by the participants.
 
+---
 
-**[CDE-Malmö projects](projects/README.md)**
+## CDE-Malmö projects
+[Read more here](projects/README.md)
