@@ -14,7 +14,7 @@
 - No selling from stage.
 - Be yourself, relax, enjoy beverages and chit chat; it's not a formal meeting.
 - Each session is topically driven, but the agenda is driven by the participants.
-- We use [Slack](cde-malmo.slack.com) to communicate and share ideas. [Click here to join](https://join.slack.com/t/cde-malmo/shared_invite/zt-ecmtvnw4-agxlQ2InUqRTwin3FC4ehg).
+- We use [Slack](http://cde-malmo.slack.com/) to communicate and share ideas. [Click here to join](https://join.slack.com/t/cde-malmo/shared_invite/zt-ecmtvnw4-agxlQ2InUqRTwin3FC4ehg).
 
 ---
 
