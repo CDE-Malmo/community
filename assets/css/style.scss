@@ -4,33 +4,37 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 h1 {
-  font-weight: bold;
   font-family: 'Amatic SC', cursive;
-  display: none;
+  color: #FB6921;
+//  color: #F29E39;
+//  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
 }
 h2 {
   font-family: 'Amatic SC', cursive;
   font-size: 32px;
-  color: #F29E39;
-  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
+  color: #FB6921;
+//  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
 }
 h3 {
   font-family: 'Amatic SC', cursive;
   font-size: 24px;
-  color: #F29E39;
-  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
+  color: #FB6921;
+//  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
 }
 h4 {
   font-family: 'Amatic SC', cursive;
   font-size: 18px;
-  color: #F29E39;
-  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
+  color: #FB6921;
+//  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
 }
 h5 {
   font-family: 'Amatic SC', cursive;
   font-size: 14px;
-  color: #F29E39;
-  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
+  color: #FB6921;
+//  text-shadow: 1px 0 0 #777, 0 -1px 0 #777, 0 1px 0 #777, -1px 0 0 #777, 0 0 5px #777;
+}
+a {
+  color: #CCE0BC;
 }
 a:hover,a:focus{
   font-weight:normal
