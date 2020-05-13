@@ -1,4 +1,7 @@
 
+---
+# 2020-05-13
+
 ## Stuff that we need to have done before the first session
 
 We can do this now:
@@ -18,3 +21,5 @@ We have to wait with these:
 
 ## Brainstorming
 *CDE-Malmö is going to help you spread your wings on your DevOps journey.*
+
+---
