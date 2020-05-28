@@ -1,5 +1,18 @@
 
 ---
+# 2020-05-28
+
+## First mini-session
+- Try out the concept with two Praqmates.
+  - Invite to Slack, tell them about the webpage and that we want to do a "trial".
+  - Feedback on how the invite should be done.
+- Have a first meeting where we:
+  - need to be prepared to explain what CDE-Malmö is.
+  - choose topic. It could be anything, it's up to the four of us to decide. Backup-topic is Elastic/Logstash/Kibana/etc.
+  - Feedback on the mini-session.
+
+
+---
 # 2020-05-14
 
 ## Let's get started
