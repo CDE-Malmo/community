@@ -1,13 +1,15 @@
 # CDE-Malmö projects
 
+## Ongoing projects
+
+### Dockerize Repo Tool
+So that anyone can start using it on their machine without messing around.
+
 ## Completed projects
 
 - [JeGeRe](JeGeRe.md) - How to setup a test environment for Jenkins, Gerrit and the Repo tool.
 
 ## Project ideas
-
-### Dockerize Repo Tool
-So that anyone can start using it on their machine without messing around.
 
 ### Demo tool chain dockerized on your machine
 Test environment on your machine.
