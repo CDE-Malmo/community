@@ -1,5 +1,16 @@
 
 ---
+# 2020-06-08
+
+## Mini-session I
+- Invite feedback: Worked for PA, but for someone that don't know some of the background, more "selling" is needed.
+- Explained what CDE-Malmö
+- How much time should we spend on this session?  1,5 - 2 hours / week
+- Pick a topic
+  - Dockerize Repo Tool - So that anyone can start using it on their machine without messing around.
+- Feedback: When suggesting topics, write a story why this is a good topic or why this is needed (problems or bad experiences are always good to share).
+
+---
 # 2020-05-28
 
 ## First mini-session
