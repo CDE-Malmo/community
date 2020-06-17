@@ -2,8 +2,7 @@
 
 ## Ongoing projects
 
-### Dockerize Repo Tool
-So that anyone can start using it on their machine without messing around.
+- [Dockerize Repo Tool](https://github.com/CDE-Malmo/repo-dockerized) - So that anyone can start using Repo on their machine without messing around.
 
 ## Completed projects
 
