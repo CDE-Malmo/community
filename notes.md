@@ -1,5 +1,21 @@
 
 ---
+# 2020-06-17
+
+## Repo Dockerized
+We started to work on the new project.
+
+https://github.com/CDE-Malmo/repo-dockerized
+
+## The "process"
+1. Update on the topic
+2. What do we want to accomplish?
+3. Do we need a repo - create it.
+4. More ideas?
+5. Start working.
+6. Create some kind of deliverable - docs/code/working sw
+
+---
 # 2020-06-08
 
 ## Mini-session I
