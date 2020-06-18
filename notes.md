@@ -1,5 +1,25 @@
 
 ---
+# 2020-06-18
+
+## Thoughts on the "process" so far
+
+After we had first mini-online session with "external" participant:
+
+- Hassle with sharing (screen, remote session, etc.)
+  - People need to have tested to share/mics/etc before the meeting starts.
+- If this were "proper" session, then we needed to have more in slack (at least started the first two points in the "process" below). Also figuring out what the deliverable will be (or aimed for).
+  - Everyone can pitch in in their own pace.
+  - Some research can be done beforehand, which is crucial for the shorter sessions (but good for the longer ones as well).
+
+Plan is to finalize the project next week. And then do another one with another "external".
+
+How do we do with membership for the organisation?
+- Members have only read access currently.
+- We change this now so that members have write-access as default to all repos.
+- If the repo becomes something more, we need to set more protection, for instance protecting the master branch from force pushes.
+
+---
 # 2020-06-17
 
 ## Repo Dockerized
