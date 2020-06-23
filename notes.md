@@ -1,5 +1,15 @@
 
 ---
+
+# 2020-06-23
+
+## Repo Dockerized
+We completeed the project, minor things left, but we know it works.
+
+https://github.com/CDE-Malmo/repo-dockerized
+
+---
+
 # 2020-06-18
 
 ## Thoughts on the "process" so far
@@ -20,6 +30,7 @@ How do we do with membership for the organisation?
 - If the repo becomes something more, we need to set more protection, for instance protecting the master branch from force pushes.
 
 ---
+
 # 2020-06-17
 
 ## Repo Dockerized
