@@ -4,9 +4,23 @@
 # 2020-06-23
 
 ## Repo Dockerized
-We completeed the project, minor things left, but we know it works.
+We completed the project, minor things left, but we know it works.
 
 https://github.com/CDE-Malmo/repo-dockerized
+
+Next time:
+- Publish it
+- Shrink it
+
+## Mini retro
+
+Good:
+- Live Share worked well, at least with 3 people
+- This has great potential when we learn to utilize it better
+- 3 sessions are good (1-2 hours each)
+
+Could be improved:
+- Take turns writing. Like mob programming.
 
 ---
 
