@@ -1,6 +1,21 @@
 
 ---
 
+# 2020-06-30
+
+## Repo Dockerized
+
+- We uploaded to docker-hub.
+- Updated the README to be nice and good.
+- This project is now complete, any improvements can be contributed by anyone.
+
+## Next project
+
+- Late summer, try to do it in the office.
+
+
+---
+
 # 2020-06-23
 
 ## Repo Dockerized
