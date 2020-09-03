@@ -1,6 +1,23 @@
 
 ---
 
+# 2020-09-03
+
+## Outside prospects
+- P from A interested, will join slack
+- F from I is joining after their vacation
+- J from A has a friend, both might be valid for this
+
+## Next project in the office
+To not loose momentum, we'll try to organize something internally. We will do a Eiffel project. Proposed date is Thursday 17/9. We need to prepare (together with all potential participants of the project) on slack before then. Things we need to agree upon before start:
+- What's the problem we want to solve
+- Suggested reading before start
+- Who is the driver of the project
+
+Also, if somebody works or investigates beforehand please share that before the gathering (on slack) or at the start of the gathering.
+
+---
+
 # 2020-06-30
 
 ## Repo Dockerized
