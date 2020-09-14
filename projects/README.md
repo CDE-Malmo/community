@@ -19,3 +19,9 @@ The challenges:
 
 ### Eiffel
 Setup a demo environment using Eiffel; Maybe Jenkins, Gerrit, RabbitMQ and/or something else. 
+
+### Github Actions
+Create pipeline(s) using Github Actions to run tests and deployments to "production". Look into integrating with container registries.
+
+### Terraform
+Write a terraform setup that can manage a kindoff complex infrastructure towards a cloud provider.
