@@ -1,6 +1,14 @@
 
 ---
 
+# 2020-09-17
+
+## Eiffel session
+
+We had a session trying to figure out Eiffel and how that could be used. The progress and code is in the [eiffel-sandbox repo](https://github.com/CDE-Malmo/eiffel-sandbox).
+
+---
+
 # 2020-09-03
 
 ## Outside prospects
