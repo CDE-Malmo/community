@@ -2,6 +2,8 @@
 
 ## Completed projects
 
+- [Dockerize Repo Tool, part 2](https://github.com/CDE-Malmo/repo-dockerized) - Create pipeline( using Github Actions to run tests and deployments to GitHub registry.
+
 - [Dockerize Repo Tool](https://github.com/CDE-Malmo/repo-dockerized) - So that anyone can start using Repo on their machine without messing around.
 
 - [JeGeRe](JeGeRe.md) - How to setup a test environment for Jenkins, Gerrit and the Repo tool.
@@ -26,3 +28,6 @@ Create pipeline(s) using Github Actions to run tests and deployments to "product
 
 ### Terraform
 Write a terraform setup that can manage a kindoff complex infrastructure towards a cloud provider.
+
+### Pre-tested integration as GitHub action
+Creating a pre-tested integration GitHub action could be an easy way to let many use this good way of working.
