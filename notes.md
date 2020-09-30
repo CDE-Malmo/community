@@ -1,6 +1,30 @@
 
 ---
 
+# 2020-09-30
+
+## GitHub actions
+
+[The repo for Dockerize Repo Tool](https://github.com/CDE-Malmo/repo-dockerized)
+
+Github pipeline with GHactions and GHregistry
+
+Using the repo-dockerized as base, we added the workflow template file for "Publish Docker Container".
+
+Create a CR_PAT.
+- enable package creation in the organization, public.
+- created a bot user and added the CR_PAT in the repo settings
+- ghcr.io seems to be the new one, but we used docker.pkg.github.com because that one worked
+
+Future questions:
+- [This run](https://github.com/CDE-Malmo/repo-dockerized/runs/1187397216?check_suite_focus=true) worked, but how can we access it? Where is it?
+
+Creating GHactions:
+- Either Docker or Javascript.
+
+
+---
+
 # 2020-09-17
 
 ## Eiffel session
